@@ -8,6 +8,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title>infogate</title>
+	<link rel="stylesheet" href="estilo.css">
     </head>
     <body>
         <?php
