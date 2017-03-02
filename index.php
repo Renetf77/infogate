@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>infogate35</title>
+        <title>infogate37</title>
     </head>
     <body>
         <?php
